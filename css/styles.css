@@ -1,9 +1,4 @@
-.navbar-nav {
-	text-align: center;
-}
-
 .navbar-nav > li > a {
-	border: 1px #ddd solid;
 	background-color: #fed;
 }
 
