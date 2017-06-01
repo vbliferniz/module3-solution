@@ -1,0 +1,16 @@
+.navbar-nav {
+	text-align: center;
+}
+
+.navbar-nav > li > a {
+	border: 1px #ddd solid;
+	background-color: #fed;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+section {
+	background-color: #fed;
+}
